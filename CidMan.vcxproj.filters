@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ass">
+      <UniqueIdentifier>{f6e11a38-9ebf-49da-b3d9-a89861c7e71e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\tex">
+      <UniqueIdentifier>{b6da45fe-51ae-42c4-8f9c-f7e40f191b91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\snd">
+      <UniqueIdentifier>{8fd6a745-2f26-4c10-9236-78204bff4e83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\data">
+      <UniqueIdentifier>{77e5db98-1cf9-4f91-a28e-53ce47b515b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\data\tset">
+      <UniqueIdentifier>{03a4bd77-125e-4d10-96a0-f8826c57d92d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\data\tmap">
+      <UniqueIdentifier>{93f2d2ba-6311-4a65-b4b8-9bc036da3d95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\data\ent">
+      <UniqueIdentifier>{34611ef0-59c0-4e29-be6d-7435cb579a40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\snd\mus">
+      <UniqueIdentifier>{b13c616f-4725-418f-951f-c48fec02da15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\snd\sfx">
+      <UniqueIdentifier>{10d91358-b87d-4fa1-9250-49cfbc96f9bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\tex\bg">
+      <UniqueIdentifier>{3075dd2d-4f02-4267-9202-8a1b0b59a12d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\tex\ent">
+      <UniqueIdentifier>{3483386f-0a0f-465e-b296-bf4ab76ba1ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\tex\tset">
+      <UniqueIdentifier>{39a8f456-26ee-4ec4-bfbf-83c128673ae9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{4d0d031a-5586-4c1f-a55c-cd42add6cdef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\action">
+      <UniqueIdentifier>{47f1d25d-e2b3-4882-8c8e-12f823287263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{70fbe22c-fec7-43c8-8c22-e53b9ba004b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\misc">
+      <UniqueIdentifier>{81b72925-6fc5-4c8f-a58b-0c970ec96f38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\mgr">
+      <UniqueIdentifier>{14934f7e-3418-49e4-9519-77c3110f6142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\res">
+      <UniqueIdentifier>{0375a7af-5e41-4750-b813-dd253fe9399a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState">
+      <UniqueIdentifier>{2da4d629-6ec2-4bd0-9188-f320bf2d0f4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\play">
+      <UniqueIdentifier>{3db3680a-478e-4dff-80d2-bf2ffce4afdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\splash">
+      <UniqueIdentifier>{a2f9f8e9-1440-45dc-9247-0e62397a0834}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\title">
+      <UniqueIdentifier>{31981baf-8f20-4488-bb7d-a58bcbea1790}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\menu">
+      <UniqueIdentifier>{a356e1da-2c99-46d4-b0f0-f8b99086fd3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\persist">
+      <UniqueIdentifier>{b16bc304-4079-4bde-b4b1-f0d68978e386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\over">
+      <UniqueIdentifier>{1aba4716-319a-4b97-baef-280ba50ddb41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\paused">
+      <UniqueIdentifier>{d2f967ed-8cb9-4407-8253-8a49ca37f857}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\persist\load">
+      <UniqueIdentifier>{9e1f85d4-fce1-4d38-9687-3cd0df5c01a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\persist\save">
+      <UniqueIdentifier>{ee0a9521-3eec-4383-83a4-4a0fdfde6a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\persist\new">
+      <UniqueIdentifier>{6a26bf54-1c88-410c-83b6-59e15f2f5db4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\res\tpl">
+      <UniqueIdentifier>{8af2255d-ce9c-4617-8ea0-b63b62786411}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\action\tpl">
+      <UniqueIdentifier>{b6e20384-cdf6-4b71-a817-055c8ef2b8cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\fonts">
+      <UniqueIdentifier>{dd2e9e8f-2475-4112-95e4-fd7e4cb6b957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ass\tex\ent\player">
+      <UniqueIdentifier>{49c32bfc-a5f7-44d7-89a2-7a75e9b638a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\gameState\stageSelect">
+      <UniqueIdentifier>{8d767774-9942-443b-9fb5-fb1bcff3c404}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\playStage">
+      <UniqueIdentifier>{3b419c6c-8e73-49bf-8a95-d75c127e9b57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\playStage\intro">
+      <UniqueIdentifier>{cabf6af6-ede7-46d8-a68e-faf2d77d1232}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\tile">
+      <UniqueIdentifier>{e5e52ebd-1aa3-4d9f-8c6a-363317ec4c38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\actor">
+      <UniqueIdentifier>{a69b7ea6-5404-4837-8681-17d2dea23da4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\actor\player">
+      <UniqueIdentifier>{3cae46e0-1ebe-45fe-aba4-49324763ac86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\res\tpl\ResourceManager.tpl">
+      <Filter>src\res\tpl</Filter>
+    </None>
+    <None Include="src\action\tpl\ActionMap.tpl">
+      <Filter>src\action\tpl</Filter>
+    </None>
+    <None Include="src\action\tpl\ActionTarget.tpl">
+      <Filter>src\action\tpl</Filter>
+    </None>
+    <None Include="ass\data\tset\tset1.tset">
+      <Filter>ass\data\tset</Filter>
+    </None>
+    <None Include="ass\data\tmap\intro.tmap">
+      <Filter>ass\data\tmap</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\res\Cfg.cpp">
+      <Filter>src\res</Filter>
+    </ClCompile>
+    <ClCompile Include="src\action\Action.cpp">
+      <Filter>src\action</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\gameState\play\PlayState.cpp">
+      <Filter>src\gameState\play</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gameState\GameState.cpp">
+      <Filter>src\gameState</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mgr\GameStateMgr.cpp">
+      <Filter>src\mgr</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gameState\splash\SplashState.cpp">
+      <Filter>src\gameState\splash</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gameState\title\TitleState.cpp">
+      <Filter>src\gameState\title</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gameState\persist\PersistState.cpp">
+      <Filter>src\gameState\persist</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gameState\over\OverState.cpp">
+      <Filter>src\gameState\over</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gameState\menu\MenuState.cpp">
+      <Filter>src\gameState\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gameState\stageSelect\StageSelectState.cpp">
+      <Filter>src\gameState\stageSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\GameWin.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\Game.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\misc\globals.cpp">
+      <Filter>src\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gameState\paused\PausedState.cpp">
+      <Filter>src\gameState\paused</Filter>
+    </ClCompile>
+    <ClCompile Include="src\playStage\intro\IntroStage.cpp">
+      <Filter>src\playStage\intro</Filter>
+    </ClCompile>
+    <ClCompile Include="src\playStage\PlayStage.cpp">
+      <Filter>src\playStage</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tile\Tile.cpp">
+      <Filter>src\tile</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tile\Tilemap.cpp">
+      <Filter>src\tile</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tile\Tileset.cpp">
+      <Filter>src\tile</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actor\Actor.cpp">
+      <Filter>src\actor</Filter>
+    </ClCompile>
+    <ClCompile Include="src\actor\player\Player.cpp">
+      <Filter>src\actor\player</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\res\Cfg.h">
+      <Filter>src\res</Filter>
+    </ClInclude>
+    <ClInclude Include="src\res\ResourceManager.h">
+      <Filter>src\res</Filter>
+    </ClInclude>
+    <ClInclude Include="src\action\Action.h">
+      <Filter>src\action</Filter>
+    </ClInclude>
+    <ClInclude Include="src\action\ActionMap.h">
+      <Filter>src\action</Filter>
+    </ClInclude>
+    <ClInclude Include="src\action\ActionTarget.h">
+      <Filter>src\action</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\play\PlayState.h">
+      <Filter>src\gameState\play</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\GameState.h">
+      <Filter>src\gameState</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mgr\GameStateMgr.h">
+      <Filter>src\mgr</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\splash\SplashState.h">
+      <Filter>src\gameState\splash</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\title\TitleState.h">
+      <Filter>src\gameState\title</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\persist\PersistState.h">
+      <Filter>src\gameState\persist</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\over\OverState.h">
+      <Filter>src\gameState\over</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\menu\MenuState.h">
+      <Filter>src\gameState\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\stageSelect\StageSelectState.h">
+      <Filter>src\gameState\stageSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Game.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\GameWin.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\misc\globals.h">
+      <Filter>src\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gameState\paused\PausedState.h">
+      <Filter>src\gameState\paused</Filter>
+    </ClInclude>
+    <ClInclude Include="src\playStage\intro\IntroStage.h">
+      <Filter>src\playStage\intro</Filter>
+    </ClInclude>
+    <ClInclude Include="src\playStage\PlayStage.h">
+      <Filter>src\playStage</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tile\Tile.h">
+      <Filter>src\tile</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tile\Tilemap.h">
+      <Filter>src\tile</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tile\Tileset.h">
+      <Filter>src\tile</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actor\Actor.h">
+      <Filter>src\actor</Filter>
+    </ClInclude>
+    <ClInclude Include="src\actor\player\Player.h">
+      <Filter>src\actor\player</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="ass\fonts\freedom.ttf">
+      <Filter>ass\fonts</Filter>
+    </Font>
+    <Font Include="ass\fonts\frisky_puppy.ttf">
+      <Filter>ass\fonts</Filter>
+    </Font>
+    <Font Include="ass\fonts\MM.otf">
+      <Filter>ass\fonts</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ass\tex\bg\SpaceBG.png">
+      <Filter>ass\tex\bg</Filter>
+    </Image>
+    <Image Include="ass\tex\tset\TSet1.png">
+      <Filter>ass\tex\tset</Filter>
+    </Image>
+    <Image Include="ass\tex\ent\player\PlayerAtlas.png">
+      <Filter>ass\tex\ent\player</Filter>
+    </Image>
+    <Image Include="ass\tex\bg\logoImg.png">
+      <Filter>ass\tex\bg</Filter>
+    </Image>
+    <Image Include="ass\tex\bg\title.png">
+      <Filter>ass\tex\bg</Filter>
+    </Image>
+    <Image Include="ass\tex\bg\stageSel1.png">
+      <Filter>ass\tex\bg</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

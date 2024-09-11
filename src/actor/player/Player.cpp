@@ -55,34 +55,6 @@ void Player::update()
 	if (vel.x < -MAXVELX)
 		vel.x = -MAXVELX;
 
-	//if (falling)
-	//{
-	//	//check collisions
-	//	if (pos.y >= 900 - 50 - size.y)
-	//	{
-	//		pos.y = 900 - 50 - size.y;
-	//		vel.y = 0.f;
-	//		applyAcc(0.f, 0.f);
-	//		falling = false;
-	//	}
-	//	else
-	//	{
-	//		// slow down acceleration
-	//		acc.x *= 0.8f * gTime;
-	//		//if (fabs(acc.x) < 8.f)
-	//		//{
-	//		//	acc.x = 0.f;
-	//	//	}
-	//		pos.y = findNextY();
-	//		pos.x = findNextX();
-	//	}
-	//}
-	//else
-	//{
-	//	pos.y = findNextY();
-	//	pos.x = findNextX();
-	//}
-
 	if (jumping)
 	{
 		vel.y = -950.f;
